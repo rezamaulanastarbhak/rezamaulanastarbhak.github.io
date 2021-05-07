@@ -1,0 +1,4 @@
+prettier
+print width = 240
+format on save V
+default formater
